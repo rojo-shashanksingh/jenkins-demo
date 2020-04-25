@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIResource>
+    <name>test-resource</name>
+    <title>test-resource</title>
+    <canShowGet>true</canShowGet>
+    <canShowPost>true</canShowPost>
+    <canShowPut>true</canShowPut>
+    <canShowDelete>true</canShowDelete>
+    <canShowHead>true</canShowHead>
+    <canShowOption>true</canShowOption>
+    <canShowPatch>true</canShowPatch>
+    <isGetChecked>true</isGetChecked>
+    <isPostChecked>true</isPostChecked>
+    <isPutChecked>true</isPutChecked>
+    <isDeleteChecked>true</isDeleteChecked>
+    <isHeadChecked>true</isHeadChecked>
+    <isOptionChecked>true</isOptionChecked>
+    <isPatchChecked>true</isPatchChecked>
+    <resource_path>/test-resource</resource_path>
+    <proxyEndPointName>default</proxyEndPointName>
+    <documentations>
+        <documentation locale="en" mimeType="HTML">test-resource</documentation>
+    </documentations>
+</APIResource>
