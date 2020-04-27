@@ -2,7 +2,7 @@
 <APIProxy>
     <name>test-api</name>
     <title>test-api</title>
-    <description> </description>
+    <description> test</description>
     <service_code>REST</service_code>
     <life_cycle>
         <changed_by>shashank.singh@rojoconsultancy.com</changed_by>
